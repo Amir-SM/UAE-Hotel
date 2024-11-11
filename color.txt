@@ -1,3 +1,1 @@
-red
-blue
-pink
+no color in even
