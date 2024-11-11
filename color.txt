@@ -1,1 +1,2 @@
-red in master
+red
+red is the best
